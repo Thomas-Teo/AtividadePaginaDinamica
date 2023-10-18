@@ -1,0 +1,6 @@
+com\pokedex\MyEntity.class
+META-INF\panache-archive.marker
+com\pokedex\facade\PokemonFacade.class
+com\pokedex\rest\PokemonRest.class
+com\pokedex\facade\PokemonFacadeImpl.class
+com\pokedex\model\Pokemon.class
